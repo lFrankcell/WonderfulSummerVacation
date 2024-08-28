@@ -254,6 +254,8 @@ ros2 run turtlesim  turtle_teleop_key
 
   **Test lidar and camera**
 
+ Open /ros2_tb4_ws/src/create3_sim/irobot_create_common/irobot_create_description/urdf/create3.urdf.xacro and go to line 301 and change it to "ogre2"
+
   Launch
 
   ```
